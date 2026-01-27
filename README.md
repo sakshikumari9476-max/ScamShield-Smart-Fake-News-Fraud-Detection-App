@@ -1,2 +1,2 @@
 # ScamShield-Smart-Fake-News-Fraud-Detection-App
-A web app that helps students after 10th, 12th, and graduation choose the right career path by generating personalized roadmaps with required skills, courses, and step-by-step learning guidance.
+ScamShield is a smart security tool designed to identify fake news, phishing messages, and scam links. It uses AI-based text analysis and URL reputation checks to warn users before they fall into digital traps.
